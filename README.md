@@ -1,3 +1,3 @@
 # Kaggle-competition-2020
 
-[<ProgressiveImage src="university-degree-necessary-in-data-science.ipynb">](/static/buttons/view-in-deepnote-white-small.svg)
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote-white.svg)](https://deepnote.com/viewer/github/norvig/pytudes/blob/master/ipynb/Advent-2020.ipynb)
